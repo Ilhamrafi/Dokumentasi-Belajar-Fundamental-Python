@@ -5,6 +5,6 @@ Repositori ini berisi sejumlah file Python yang mencakup materi dasar-dasar baha
 ## Penggunaan
 1. Klone repositori ini ke mesin lokal Anda:
     ```bash
-    git clone https://github.com/username/repo-algo-strukturdata-java.git](https://github.com/Ilhamrafi/Dokumentasi-Belajar-Fundamental-Python.git
+    git clone https://github.com/Ilhamrafi/Dokumentasi-Belajar-Fundamental-Python.git
     ```
 2. Buka dan jalankan proyek Python di Visual Studio Code atau IDE lainnya.
